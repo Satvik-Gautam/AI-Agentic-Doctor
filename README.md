@@ -1,6 +1,6 @@
 # 🩺 AI Doctor with Vision and Voice
 
-A cutting-edge web application that leverages AI to provide medical insights based on voice input and optional medical image analysis. Built using Gradio for the interface, Groq for multimodal AI processing, and gTTS for text-to-speech, this project simulates a virtual doctor consultation experience. Users can speak their symptoms, upload medical images (e.g., X-rays, skin conditions), and receive a professional, human-like response from an AI doctor, delivered both as text and audio. The application is hosted publicly on Hugging Face Spaces for easy access.
+A cutting-edge AI- Agentic Application that leverages AI to provide medical insights based on voice input and optional medical image analysis. Built using Gradio for the interface, Groq for multimodal AI processing, and gTTS and elevenlabs for text-to-speech, this project simulates a virtual doctor consultation experience. Users can speak their symptoms, upload medical images (e.g., X-rays, skin conditions), and receive a professional, human-like response from an AI doctor, delivered both as text and audio. The application is hosted publicly on Hugging Face Spaces for easy access.
 
 ---
 
